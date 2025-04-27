@@ -5,3 +5,5 @@ I think I have a decently wide array of skills and am still learning new ones. I
 This portfolio gives a look at what I can create mostly from the ground up. It shows off how I understand code with the code review and shows how I can upgrade something and utilize skills and tools that are new to me.
 
 ### Code Review
+
+![](CS 499 Milestone One Nathan Redding.mp4)
