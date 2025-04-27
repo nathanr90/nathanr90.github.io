@@ -6,6 +6,8 @@ This portfolio gives a look at what I can create mostly from the ground up. It s
 
 ### Code Review
 
+[CS 499 Milestone One Nathan Redding.mp4](https://github.com/nathanr90/nathanr90.github.io/blob/main/CS%20499%20Milestone%20One%20Nathan%20Redding.mp4)
+
 ### Project
 
 [CS 320 Project 1 Nathan Redding.zip](https://github.com/nathanr90/nathanr90.github.io/blob/main/CS%20320%20Project%201%20Nathan%20Redding.zip)
