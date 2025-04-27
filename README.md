@@ -6,3 +6,4 @@ This portfolio gives a look at what I can create mostly from the ground up. It s
 
 ### Code Review
 
+CS 499 Milestone One Nathan Redding.mp4
